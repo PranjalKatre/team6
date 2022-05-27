@@ -24,22 +24,22 @@
           <div class="collapse navbar-collapse" id="mynavbar">
             <ul class="navbar-nav me-auto">
               <li class="nav-item">
-                <a class="nav-link" href="home page 1.html" style="font-size: 20px;">HOME</a>
+                <a class="nav-link" href="Home.jsp" style="font-size: 20px;">HOME</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="default.asp" style="font-size: 20px;">ACCESSORIES</a>
+                <a class="nav-link" href="Accessories.jsp" style="font-size: 20px;">ACCESSORIES</a>
               </li>
 
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" style="font-size: 20px;">LOGIN</a>
                 <ul class="dropdown-menu">
-                  <li><a class="dropdown-item" href="default.asp" style="font-size: 20px;">USER</a></li>
-                  <li><a class="dropdown-item" href="default.asp" style="font-size: 20px;">ADMIN</a></li>
+                  <li><a class="dropdown-item" href="Login.jsp" style="font-size: 20px;">USER</a></li>
+                  <li><a class="dropdown-item" href="Login.jsp" style="font-size: 20px;">ADMIN</a></li>
                 </ul>
               </li>
 
               <li class="nav-item">
-                <a class="nav-link" href="default.asp" style="font-size: 20px;">REGISTER</a>
+                <a class="nav-link" href="Registration.jsp" style="font-size: 20px;">REGISTER</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="default.asp" style="font-size: 20px;">CART</a>
@@ -48,9 +48,8 @@
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" style="font-size: 20px;">ABOUT US</a>
                 <ul class="dropdown-menu">
-                  <li><a class="dropdown-item" href="D:\Programs\Web Development Project\gym equipments\contact_us\index.html" style="font-size: 20px;">CONTACT</a></li>
+                  <li><a class="dropdown-item" href="Contact Us.jsp" style="font-size: 20px;">CONTACT</a></li>
                   <li><a class="dropdown-item" href="#" style="font-size: 20px;">BLOG</a></li>
-                  <li><a class="dropdown-item" href="#" style="font-size: 20px;">REVIEWS</a></li>
                 </ul>
               </li>
 

@@ -23,22 +23,22 @@
           <div class="collapse navbar-collapse" id="mynavbar">
             <ul class="navbar-nav me-auto">
               <li class="nav-item">
-                <a class="nav-link" href="home.jsp" style="font-size: 20px;">HOME</a>
+                <a class="nav-link" href="Home.jsp" style="font-size: 20px;">HOME</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="default.asp" style="font-size: 20px;">ACCESSORIES</a>
+                <a class="nav-link" href="Accessories.jsp" style="font-size: 20px;">ACCESSORIES</a>
               </li>
 
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" style="font-size: 20px;">LOGIN</a>
                 <ul class="dropdown-menu">
-                  <li><a class="dropdown-item" href="default.asp" style="font-size: 20px;">USER</a></li>
-                  <li><a class="dropdown-item" href="default.asp" style="font-size: 20px;">ADMIN</a></li>
+                  <li><a class="dropdown-item" href="Login.jsp" style="font-size: 20px;">USER</a></li>
+                  <li><a class="dropdown-item" href="Login.jsp" style="font-size: 20px;">ADMIN</a></li>
                 </ul>
               </li>
 
               <li class="nav-item">
-                <a class="nav-link" href="default.asp" style="font-size: 20px;">REGISTER</a>
+                <a class="nav-link" href="Registration.jsp" style="font-size: 20px;">REGISTER</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="default.asp" style="font-size: 20px;">CART</a>
@@ -47,9 +47,8 @@
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" style="font-size: 20px;">ABOUT US</a>
                 <ul class="dropdown-menu">
-                  <li><a class="dropdown-item" href="D:\Programs\Web Development Project\gym equipments\contact_us\index.html" style="font-size: 20px;">CONTACT</a></li>
+                  <li><a class="dropdown-item" href="Contact Us.jsp" style="font-size: 20px;">CONTACT</a></li>
                   <li><a class="dropdown-item" href="#" style="font-size: 20px;">BLOG</a></li>
-                  <li><a class="dropdown-item" href="#" style="font-size: 20px;">REVIEWS</a></li>
                 </ul>
               </li>
 
@@ -106,25 +105,26 @@
 
       <div class="row" style="margin-top: 50px">
         <div class="col-sm-3">
-          <a href="default.asp"> 
+        <a href="Cardio Equipments.jsp">
+          <a href="Cardio Equipments.jsp"> 
           <img src="treadmill.jpg" alt="cardio equipment" style="margin-left: 50px; height: 200px; width: 200px;">
           </a>
             <h4 style="text-align:center;">CARDIO EQUIPMENTS</h4>
         </div>
         <div class="col-sm-3">
-            <a href="default.asp">
+            <a href="Weight Equipments.jsp">
             <img src="weight equipment.jpg" alt="weight equipment" style="margin-left: 50px; height: 200px; width: 200px;">
         </a>
             <h4 style="text-align:center;">WEIGHT EQUIPMENTS</h4>
         </div>
         <div class="col-sm-3">
-            <a href="default.asp">
+            <a href="Free Body Equipment.jsp">
             <img src="free body.jpg" alt="free body equipment" style="margin-left: 50px; height: 200px; width: 200px;">
         </a>
             <h4 style="text-align:center;">FREE-BODY EQUIPMENTS</h4>
         </div>
         <div class="col-sm-3">
-            <a href="default.asp">
+            <a href="Weights.jsp">
             <img src="weights.jpg" alt="weightS" style="margin-left: 50px; height: 200px; width: 200px;">
             </a>
             <h4 style="text-align:center;">WEIGHTS</h4>
@@ -132,28 +132,29 @@
       </div>
 
       <h2 style="margin-top:50px; text-align:center;">______  BEST SELLING PRODUCTS  ______</h2>
-      <a href="default.asp"><h6 style="text-align:right;">See All Products</h6></a>
+      <a href="All Products.jsp"><h6 style="text-align:right;">See All Products</h6></a>
 
       <div class="row" style="margin-top: 50px">
         <div class="col-sm-3">
+        <a href="Cardio Equipments.jsp">
             <img src="treadmill.jpg" alt="cardio equipment" style="margin-left: 50px; height: 200px; width: 200px;">
         </a>
             <h4 style="text-align:center;">CARDIO EQUIPMENTS</h4>
         </div>
         <div class="col-sm-3">
-            <a href="default.asp">
+            <a href="Weight Equipments.jsp">
             <img src="weight equipment.jpg" alt="weight equipment" style="margin-left: 50px; height: 200px; width: 200px;">
         </a>
             <h4 style="text-align:center;">WEIGHT EQUIPMENTS</h4>
         </div>
         <div class="col-sm-3">
-            <a href="default.asp">
+            <a href="Free Body Equipment.jsp">
             <img src="free body.jpg" alt="free body equipment" style="margin-left: 50px; height: 200px; width: 200px;">
         </a>
             <h4 style="text-align:center;">FREE-BODY EQUIPMENTS</h4>
         </div>
         <div class="col-sm-3">
-            <a href="default.asp">
+            <a href="Weights.jsp">
             <img src="weights.jpg" alt="weightS" style="margin-left: 50px; height: 200px; width: 200px;">
             </a>
             <h4 style="text-align:center;">WEIGHTS</h4>
@@ -203,7 +204,7 @@
           </div>
 
           <div class="col-sm-3">
-            <a href="review1.html">
+            <a href="review1.jsp">
             <h4 style="text-align:center; margin-top: 200px;">all reviews</h4></a>
         </div>
 
@@ -234,10 +235,10 @@
 
           <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mt-3">
             <h6 class="text-uppercase mb-4 font-weight-bold">Products</h6>
-            <p><a class="text-white" href="#">CARDIO EQUIPMENTS</a></p>
-            <p><a class="text-white" href="#">WEIGHT EQUIPMENTS</a></p>
-            <p><a class="text-white" href="#">FREE-BODY EQUIPMENTS</a></p>
-            <p><a class="text-white" href="#">WEIGHTS</a></p>
+            <p><a class="text-white" href="Cardio Equipments.jsp">CARDIO EQUIPMENTS</a></p>
+            <p><a class="text-white" href="Weight Equipments.jsp">WEIGHT EQUIPMENTS</a></p>
+            <p><a class="text-white" href="Free Body Equipment.jsp">FREE-BODY EQUIPMENTS</a></p>
+            <p><a class="text-white" href="Weights.jsp">WEIGHTS</a></p>
           </div>
 
           <hr class="w-100 clearfix d-md-none" />
@@ -258,7 +259,7 @@
             <h6 class="text-uppercase mb-4 font-weight-bold">
               Useful links
             </h6>
-            <p><a class="text-white" href="#">Contact Us.</a></p>
+            <p><a class="text-white" href="Contact Us.jsp">Contact Us.</a></p>
             <p><a class="text-white" href="#">Safety Policy.</a></p>
             <p><a class="text-white" href="#">Privacy Policy.</a></p>
             <p><a class="text-white" href="#">Safety.</a></p>
@@ -271,7 +272,7 @@
       <section class="p-3 pt-0">
         <div class="row d-flex align-items-center">
           <div class="col-md-7 col-lg-8 text-center text-md-start">
-            <div class="p-3">© 2022 Copyright:<a class="text-white" href="home page 1.html">strikergymequipments.com</a>
+            <div class="p-3">© 2022 Copyright:<a class="text-white" href="#">strikergymequipments.com</a>
             </div>
           </div>
 
